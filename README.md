@@ -13,12 +13,10 @@ Design responsivo utilizando Bootstrap
 Navegação simples e intuitiva
 
 🛠️ Tecnologias Utilizadas
+
 HTML5
-
 CSS3
-
 JavaScript Vanilla
-
 Bootstrap 5
 
 📁 Estrutura de Arquivos
