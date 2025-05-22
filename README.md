@@ -23,6 +23,7 @@ JavaScript Vanilla
 Bootstrap 5
 
 📁 Estrutura de Arquivos
+
 index.html — Página inicial
 
 cardapio.html — Página de menu com os produtos
